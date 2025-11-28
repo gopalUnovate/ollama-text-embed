@@ -20,7 +20,7 @@ A FastAPI-based document embedding and semantic search system using Ollama for e
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/gopalUnovate/ollama-text-embed.git
 cd doc-embedding-api
 ```
 
