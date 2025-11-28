@@ -1,0 +1,2 @@
+This is a test file to verify the document embedding API.
+It contains simple text to ensure the embedding and indexing process works correctly.
